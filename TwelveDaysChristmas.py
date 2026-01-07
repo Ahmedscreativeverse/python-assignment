@@ -60,7 +60,7 @@ def get_gift(gift_number):
 
 
 
-print("🎄 THE TWELVE DAYS OF CHRISTMAS 🎄\n")
+print(" THE TWELVE DAYS OF CHRISTMAS ")
 
 
 
